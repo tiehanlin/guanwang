@@ -1,0 +1,92 @@
+body {
+	font-family: "微软雅黑";
+}
+
+#bs-example-navbar-collapse-1 {
+	border: 0px;
+}
+
+#nav {
+	background: white;
+	border: 0px;
+}
+
+
+#bs-example-navbar-collapse-1 ul li {}
+
+#bodyer01 {
+	margin-top: 136px;
+}
+
+.heng {
+	width: 50px;
+	height: 0px;
+	border: 2px solid rgb(98, 197, 218);
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+#bodyer01 .threeChange {
+	height: 495px;
+}
+
+.title {
+	margin-top: 42px;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.people {
+	height: 438px;
+	width: 100%;
+	background-repeat: no-repeat;
+	border: 2px solid black;
+	border-radius: 20px;
+	position: absolute;
+	top: 0;
+	overflow: hidden;
+}
+
+.people .miaoshu {
+	height: 100px;
+}
+
+.ptgn img {
+	width: 250px;
+	height: 250px;
+}
+
+.ssfx p {
+	font-size: 20px;
+}
+
+#bodyer02 .threeChange {
+	height: 495px;
+}
+.footImg{
+	width: 160px;
+	margin: 0 auto;
+}
+.footImg.footReal{
+	margin-top: 50px;
+	width: 100%;
+}
+.black{
+	margin-top: 150px;
+	background-color: rgb(67,67,67);
+	padding-top: 110px;
+	color: white;
+}
+.black p{
+	margin-top: 50px;
+	font-size: 20px;
+	margin-bottom: 0;
+	padding-bottom: 40px;
+}
+.black p span{
+	font-size: 14px;
+}
+.black img{
+	margin-left: 50px;
+	margin-right: 100px;
+}
